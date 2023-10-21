@@ -1,0 +1,15 @@
+{
+  "submit": "送出",
+  "cancel": "取消",
+  "commom": {
+    "header": "標題"
+  },
+  "page1": {
+    "test": {
+      "home": "首頁"
+    }
+  },
+  "range": "{min}到{max}",
+  "aaa": "送出A",
+  "bbb": "取消B"
+}

@@ -1,0 +1,15 @@
+{
+  "submit": "submit",
+  "cancel": "cancel",
+  "commom": {
+    "header": "header"
+  },
+  "page1": {
+    "test": {
+      "home": "home"
+    }
+  },
+  "range": "{min}to{max}",
+  "aaa": "submitA",
+  "bbb": "cancelB"
+}

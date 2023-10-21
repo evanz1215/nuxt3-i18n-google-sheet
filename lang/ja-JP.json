@@ -1,0 +1,15 @@
+{
+  "submit": "提出する",
+  "cancel": "キャンセル",
+  "commom": {
+    "header": "ヘッダー"
+  },
+  "page1": {
+    "test": {
+      "home": "家"
+    }
+  },
+  "range": "{min}to{max}",
+  "aaa": "提出するA",
+  "bbb": "キャンセルB"
+}
